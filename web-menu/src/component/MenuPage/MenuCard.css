@@ -1,0 +1,72 @@
+.menuCard {
+  display: flex;
+  flex-direction: column;
+  width: 30rem;
+  gap: 1rem;
+  box-shadow: 4px 3px 21px rgba(0, 0, 0, 0.76);
+}
+
+.photoContainer {
+  display: flex;
+  flex: 16;
+}
+
+.photoContainer img {
+  max-height: 100%;
+  width: auto;
+  border-top-left-radius: 1rem;
+  border-top-right-radius: 1rem;
+}
+
+.description {
+  flex: 9;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.description h2 {
+  font-family: "Poppins";
+  font-weight: 600;
+  font-size: 1.25rem;
+}
+
+.description p {
+  font-family: "Poppins";
+  font-weight: 300;
+  font-size: 0.95rem;
+  text-align: left;
+}
+
+.metadata {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  border-top: 1px solid;
+  padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+  box-sizing: border-box;
+}
+
+.tags {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  gap: 0.5rem;
+  text-align: left;
+  min-height: 1.5rem;
+}
+
+.tags img {
+  width: auto;
+  height: 1.5rem;
+  -webkit-filter: invert(1);
+  filter: invert(1);
+}
+
+.price {
+  flex: 0;
+  text-align: left;
+  min-width: fit-content;
+}

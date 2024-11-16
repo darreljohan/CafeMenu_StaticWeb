@@ -1,0 +1,263 @@
+[
+  {
+    "id": "672a112d78251df1fc393632",
+    "name": "Placeholder Menu",
+    "picture": "http://placehold.it/32x32",
+    "price": 38.1,
+    "category": "Beverages",
+    "tags": [],
+    "comment": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": "672a112d08d47de36e7465b7",
+    "name": "Placeholder Menu",
+    "picture": "http://placehold.it/32x32",
+    "price": 27.8,
+    "category": "Beverages",
+    "tags": ["Salty"],
+    "comment": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": "672a112da75b544b1ff91c91",
+    "name": "Placeholder Menu",
+    "picture": "http://placehold.it/32x32",
+    "price": 25.2,
+    "category": "Beverages",
+    "tags": ["Spicy"],
+    "comment": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": "672a112d697cdf8cc304c297",
+    "name": "Placeholder Menu",
+    "picture": "http://placehold.it/32x32",
+    "price": 22,
+    "category": "Food",
+    "tags": ["Chef"],
+    "comment": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": "672a112deafd15081e1156e8",
+    "name": "Placeholder Menu",
+    "picture": "http://placehold.it/32x32",
+    "price": 26.7,
+    "category": "Beverages",
+    "tags": ["Chef", "Sweet"],
+    "comment": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": "672a112d5358035fb1bc38b7",
+    "name": "Placeholder Menu",
+    "picture": "http://placehold.it/32x32",
+    "price": 26.5,
+    "category": "Food",
+    "tags": ["Spicy"],
+    "comment": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": "672a112d5f4ff1d6b1f73d49",
+    "name": "Placeholder Menu",
+    "picture": "http://placehold.it/32x32",
+    "price": 37.8,
+    "category": "Food",
+    "tags": [],
+    "comment": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": "672a112d502176d4f57a3721",
+    "name": "Placeholder Menu",
+    "picture": "http://placehold.it/32x32",
+    "price": 20.7,
+    "category": "Food",
+    "tags": ["Sweet", "Chef"],
+    "comment": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": "672a112d7e85c1ddd290b0ba",
+    "name": "Placeholder Menu",
+    "picture": "http://placehold.it/32x32",
+    "price": 34.7,
+    "category": "Food",
+    "tags": [],
+    "comment": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": "672a112d65e6bbeadb3823a2",
+    "name": "Placeholder Menu",
+    "picture": "http://placehold.it/32x32",
+    "price": 39.1,
+    "category": "Food",
+    "tags": ["Chef", "Chef"],
+    "comment": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": "672a112ddc844bd5a52268a2",
+    "name": "Placeholder Menu",
+    "picture": "http://placehold.it/32x32",
+    "price": 33.4,
+    "category": "Food",
+    "tags": ["Salty", "Salty"],
+    "comment": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": "672a112d7cf06bf7709263d8",
+    "name": "Placeholder Menu",
+    "picture": "http://placehold.it/32x32",
+    "price": 39.1,
+    "category": "Beverages",
+    "tags": [],
+    "comment": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": "672a112d06e70b4142bc74b7",
+    "name": "Placeholder Menu",
+    "picture": "http://placehold.it/32x32",
+    "price": 37,
+    "category": "Beverages",
+    "tags": ["Chef"],
+    "comment": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": "672a112d90243979619dcc41",
+    "name": "Placeholder Menu",
+    "picture": "http://placehold.it/32x32",
+    "price": 20.6,
+    "category": "Beverages",
+    "tags": ["Sweet", "Chef"],
+    "comment": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": "672a112d276083aa94f1083c",
+    "name": "Placeholder Menu",
+    "picture": "http://placehold.it/32x32",
+    "price": 30.6,
+    "category": "Beverages",
+    "tags": [],
+    "comment": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": "672a112d54702b93c454986b",
+    "name": "Placeholder Menu",
+    "picture": "http://placehold.it/32x32",
+    "price": 35.9,
+    "category": "Food",
+    "tags": ["Salty"],
+    "comment": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": "672a112df72e6e6d7f2815f7",
+    "name": "Placeholder Menu",
+    "picture": "http://placehold.it/32x32",
+    "price": 26,
+    "category": "Beverages",
+    "tags": ["Spicy", "Spicy"],
+    "comment": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": "672a112da4ed5fcd9e08ecd8",
+    "name": "Placeholder Menu",
+    "picture": "http://placehold.it/32x32",
+    "price": 31.7,
+    "category": "Food",
+    "tags": [],
+    "comment": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": "672a112d64e19049e333f7b9",
+    "name": "Placeholder Menu",
+    "picture": "http://placehold.it/32x32",
+    "price": 37.2,
+    "category": "Food",
+    "tags": ["Spicy"],
+    "comment": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": "672a112dc7713ce30da752a7",
+    "name": "Placeholder Menu",
+    "picture": "http://placehold.it/32x32",
+    "price": 27.2,
+    "category": "Food",
+    "tags": ["Spicy", "Salty"],
+    "comment": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": "672a112dc57533c09765daa5",
+    "name": "Placeholder Menu",
+    "picture": "http://placehold.it/32x32",
+    "price": 27.5,
+    "category": "Beverages",
+    "tags": ["Chef"],
+    "comment": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": "672a112daf953d7511153bd2",
+    "name": "Placeholder Menu",
+    "picture": "http://placehold.it/32x32",
+    "price": 39.6,
+    "category": "Beverages",
+    "tags": [],
+    "comment": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": "672a112d3cfb5de333b9c73d",
+    "name": "Placeholder Menu",
+    "picture": "http://placehold.it/32x32",
+    "price": 28.8,
+    "category": "Beverages",
+    "tags": ["Salty"],
+    "comment": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": "672a112dcf7bc0fbfc31d1d6",
+    "name": "Placeholder Menu",
+    "picture": "http://placehold.it/32x32",
+    "price": 39.7,
+    "category": "Food",
+    "tags": ["Chef"],
+    "comment": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": "672a112deb01000d90e2e651",
+    "name": "Placeholder Menu",
+    "picture": "http://placehold.it/32x32",
+    "price": 34.1,
+    "category": "Beverages",
+    "tags": [],
+    "comment": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": "672a112debb06ff6ab5573db",
+    "name": "Placeholder Menu",
+    "picture": "http://placehold.it/32x32",
+    "price": 31.3,
+    "category": "Beverages",
+    "tags": ["Salty"],
+    "comment": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": "672a112d40375218bef22e4c",
+    "name": "Placeholder Menu",
+    "picture": "http://placehold.it/32x32",
+    "price": 32.6,
+    "category": "Food",
+    "tags": [],
+    "comment": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": "672a112de1376002254c453c",
+    "name": "Placeholder Menu",
+    "picture": "http://placehold.it/32x32",
+    "price": 32.6,
+    "category": "Food",
+    "tags": [],
+    "comment": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": "672a112d08c96c96f53c9960",
+    "name": "Placeholder Menu",
+    "picture": "http://placehold.it/32x32",
+    "price": 30.8,
+    "category": "Food",
+    "tags": [],
+    "comment": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  }
+]
