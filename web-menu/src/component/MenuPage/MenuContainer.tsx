@@ -1,7 +1,6 @@
-import React, { useMemo, useState } from "react";
+import React, { useState } from "react";
 import MenuCard from "./MenuCard";
 import allMenuList from "../../menu.json";
-import allCategoryList from "../../menu-category.json";
 import { Menu } from "../../models/menu";
 import "./MenuContainer.css";
 
@@ -9,7 +8,6 @@ import Chef from "../../assets/Chef.png";
 import Chilli from "../../assets/chilli.png";
 import Salt from "../../assets/Salt.png";
 import Sweet from "../../assets/sugar-cube.png";
-import { GiConsoleController } from "react-icons/gi";
 
 function MenuContainer() {
   const [stateMenu, setStateMenu] = useState<Menu[]>(allMenuList as Menu[]);
